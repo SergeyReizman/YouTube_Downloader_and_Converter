@@ -1,4 +1,4 @@
-print("Welcome to NeuralNine YouTube Downloader and Converter v0.2 Alpha")
+print("Welcome YouTube Downloader and Converter")
 print("Loading...")
 
 import youtube_downloader
